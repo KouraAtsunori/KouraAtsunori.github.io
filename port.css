@@ -63,6 +63,7 @@ nav ul li a.selected{
 /* select関連のスタイル */
 .port_block {
     margin: 40px;
+    float: center;
     
 }
 
@@ -79,9 +80,9 @@ nav ul li a.selected{
     color: #008000;
 }
 
-#table_c {
-    float: center;
-    border: 1px;
+#table_c table,td,th {
+    border: 2px #000 solid;
+    
 }
 
 #td_w {
