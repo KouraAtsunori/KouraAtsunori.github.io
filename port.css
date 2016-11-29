@@ -56,14 +56,12 @@ nav ul li a.selected{
 }
 
 #logo img {
-    max-width: 120px;
     border: 2px solid #008000;
     border-radius: 100%;
 }
 
 /* select関連のスタイル */
 .port_block {
-    text-align: center;
     margin: 40px;
     
 }
@@ -75,6 +73,16 @@ nav ul li a.selected{
 #logo_body p {
     color: #008000;
 }
+
+#table_c {
+    float: center;
+    border: 1px;
+}
+
+#td_w {
+    width: 500px;
+}
+
 
 footer {
     text-align: center;
